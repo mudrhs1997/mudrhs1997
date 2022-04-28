@@ -1,7 +1,10 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mudrhs1997)](https://solved.ac/mudrhs1997) <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> 
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mudrhs1997)](https://solved.ac/mudrhs1997) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mudrhs1997)](https://github.com/mudrhs1997/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> 
+
+
 
 
 
