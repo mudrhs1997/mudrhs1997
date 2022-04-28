@@ -1,7 +1,7 @@
 ### Studying...
-<div align="center"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/><div>
+<div align="center">[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mudrhs1997)](https://solved.ac/mudrhs1997)</div>
   <hr>
-
+  <div align="center"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></div>
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mudrhs1997)](https://solved.ac/mudrhs1997) 
 
@@ -10,7 +10,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mudrhs1997&show_icons=true)](https://github.com/mudrhs1997/github-readme-stats)
 
 
-<div align="center"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/><div>
+<div align="center"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></div>
 
 
 
