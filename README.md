@@ -1,8 +1,7 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mudrhs1997)](https://solved.ac/mudrhs1997)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mudrhs1997)](https://solved.ac/mudrhs1997) <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> 
 
-
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> 
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
 
 
