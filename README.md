@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 
 <!--
 **mudrhs1997/mudrhs1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
