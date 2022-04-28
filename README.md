@@ -1,5 +1,7 @@
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mudrhs1997)](https://solved.ac/mudrhs1997) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mudrhs1997)](https://github.com/mudrhs1997/github-readme-stats)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mudrhs1997)](https://solved.ac/mudrhs1997) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudrhs1997)](https://github.com/mudrhs1997/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mudrhs1997)](https://github.com/mudrhs1997/github-readme-stats)
 
 
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> 
