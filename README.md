@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=MNGON&fontSize=80&animation=fadeIn" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=MNGON&fontSize=80&animation=fadeIn&fontColor=ffffff" /></div>
 
 
 
@@ -8,7 +8,7 @@
 <div align="center">blog : https://mngon.tistory.com</div>
 
 
-###             📚
+###             📚  Studying
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 
